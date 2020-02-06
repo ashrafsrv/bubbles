@@ -13,5 +13,5 @@ class Calculator:
         return None
 
     def div(self, x, y):
-        return None
+        return x//y
 
